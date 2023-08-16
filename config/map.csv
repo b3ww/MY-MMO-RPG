@@ -1,0 +1,9 @@
+id,assets,data,color,fight
+0,assets/maps/red/red0.png,assets/maps/red/red0.data,RED,0
+1,assets/maps/red/red1.png,assets/maps/red/red1.data,RED,1
+2,assets/maps/green/green0.png,assets/maps/green/green0.data,GREEN,0
+3,assets/maps/green/green1.png,assets/maps/green/green1.data,GREEN,1
+4,assets/maps/blue/blue0.png,assets/maps/blue/blue0.data,BLUE,0
+5,assets/maps/blue/blue1.png,assets/maps/blue/blue1.data,BLUE,1
+6,assets/maps/base/base.png,assets/maps/base/base.data,NONE,1
+7,assets/maps/base/cave.png,assets/maps/base/cave.data,NONE,1

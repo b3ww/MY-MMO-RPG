@@ -1,0 +1,9 @@
+name,       attack_damage,  attack_speed,   range_type, range,  projectile_speed,   max_health, regen,  max_mana,   movement_speed
+archer,     50,             80,             1,          400,    500,                550,        5,      200,        340
+axefighter, 100,            50,             0,          100,    0,                  850,        7,      200,        340
+axeknight,  150,            40,             0,          80,     0,                  1000,       10,     200,        325
+lanceknight,120,            50,             0,          100,    0,                  1000,       10,     200,        325
+spearfighter,90,            60,             0,          150,    0,                  700,        7,      200,        340
+swordfighter,80,            70,             0,          80,     0,                  700,        7,      200,        340
+thief,      60,             100,            0,          80,     0,                  650,        15,     200,        400
+wizard,     20,             200,            1,          400,    400,                550,        5,      300,        340

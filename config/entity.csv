@@ -1,0 +1,9 @@
+letter,path
+t,assets/maps/red/assets/red_tree.png
+T,assets/maps/blue/assets/blue_tree.png
+v,assets/maps/green/assets/green_tree.png
+M,assets/maps/red/assets/red_house.png
+m,assets/maps/blue/assets/blue_house.png
+q,assets/maps/green/assets/green_house.png
+l,assets/maps/base/assets/h_bridge.png
+B,assets/maps/base/assets/v_bridge.png
